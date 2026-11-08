@@ -40,8 +40,8 @@ from game import Action, AgentConfig, HandResult, Observation, Street, default_a
 warmup()
 
 # rename as your team/bot's name
-PARTICIPANT = "QuantitativeEdge"
-AGENT_NAME = "OmahaApexBot"
+PARTICIPANT = "team-alpha"
+AGENT_NAME = "alphabot"
 
 
 # ===== YOUR CODE HERE =====
